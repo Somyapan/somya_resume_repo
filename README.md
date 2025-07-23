@@ -9,7 +9,7 @@
 - 📍 Location: Udaipur Rajasthan  
 - 🌐 Portfolio: (https://somyaportfolio57.vercel.app)  
 - 🔗 LinkedIn: (https://in.linkedin.com/in/somya-panchal-92214521a/)  
-- 🗂 GitHub: (https://github.com/Meet01234)  
+- 🗂 GitHub: (https://github.com/somyapan)  
 
 ---
 
